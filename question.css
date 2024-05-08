@@ -1,0 +1,18 @@
+.question-container {
+  gap: var(--dl-space-space-unit);
+  flex: 1;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.question-text {
+  font-weight: 700;
+  line-height: 1.6;
+}
+.question-text1 {
+  color: var(--dl-color-gray-800);
+  line-height: 1.6;
+}

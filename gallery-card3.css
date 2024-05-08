@@ -1,0 +1,47 @@
+.gallery-card3-gallery-card {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.gallery-card3-image {
+  top: 0px;
+  left: 0px;
+  right: auto;
+  width: 100%;
+  bottom: auto;
+  height: 300px;
+  position: absolute;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+
+
+
+
+
+
+
+
+
+
+
+.gallery-card3-root-class-name11 {
+  background-size: cover;
+  background-image: url("https://play.teleporthq.io/static/svg/default-img.svg");
+}
+
+
+
+
+
+
+
+
+
+
+
+
